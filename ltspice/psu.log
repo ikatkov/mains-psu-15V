@@ -1,0 +1,22 @@
+Circuit: * C:\Users\fluffycookie\Documents\ltspice\mains-psu\psu.asc
+
+.OP point found by inspection.
+
+Date: Sun Jun 11 13:35:44 2023
+Total elapsed time: 0.325 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 4370
+traniter = 4370
+tranpoints = 1590
+accept = 1418
+rejected = 172
+matrix size = 80
+fillins = 132
+solver = Normal
+Avg thread counts: 3.0/2.1/1.2/1.1
+Matrix Compiler1: 18.82 KB object code size  7.2/4.9/[2.2]
+Matrix Compiler2: 10.14 KB object code size  1.9/2.4/[1.4]
+
